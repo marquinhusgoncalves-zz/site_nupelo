@@ -16,36 +16,15 @@
 </head>
 <body>
   <header>
-  <div class="container head">
+  <div class="container">
       <h1>
-        <a href="index.php" title="Logo Forró Nupelo"><img src="img/nupelo.svg" alt="Logo Forró Nupelo"></a>
+        <a href="index.php" title="Logo Forró Nupelo"><img src="img/logo-nupelo-1.jpg" alt="Logo Forró Nupelo"></a>
       </h1>
-      <input type="checkbox" id="control-nav" />
-      <div class="redes-sociais">
-        <li>
-        <a href="http://www.facebook.com" target="_blank">
-          <span class="fa-stack fa-lg">
-            <i class="fa fa-square fa-stack-2x"></i>
-            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-        </li>
-      </div>
-      <label for="control-nav" class="control-nav"></label>
-      <label for="control-nav" class="control-nav-close"></label>
       <nav>
         <ul>
           <li><a href="empresa.php">A BANDA</a></li>
           <li><a href="integrantes.php">INTEGRANTES</a></li>
           <li><a href="contato.php">CONTATO</a></li>
-          <li class="redes-sociais-menu">
-            <a href="http://www.facebook.com" target="_blank">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-square fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
         </ul>
       </nav>
     </div>
